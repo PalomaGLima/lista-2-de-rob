@@ -1,4 +1,4 @@
-/*10. Faça um programa que receba quatro números e imprima o maior e o menor número.*/
+/*10- Faça um programa que receba quatro números e imprima o maior e o menor número.*/
 
 #include <stdio.h>
 #include <stdlib.h>
