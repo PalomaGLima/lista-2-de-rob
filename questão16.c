@@ -29,15 +29,6 @@ scanf("%f",&x);
         x=x*x*x;
         printf("%.2f",x);
     }
-    
-    
-    
-    
-
-
-
-
-
 
 
     return 0;
